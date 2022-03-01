@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Forster, respondent to the petition of appeal of Henry Forster, which seeks to reverse a decree of dismission made in Chancery the last day of May last; and to affirm a decree made in 1674 against the said John Forster (he being then an infant of seven years of age) unless cause shewn when he came of age.</title>
+            <author>Forster, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18588</idno>
+            <idno type="STC">Wing C930A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[31]</idno>
+            <idno type="STC">ESTC R227805</idno>
+            <idno type="EEBO-CITATION">99887516</idno>
+            <idno type="PROQUEST">ocm99887516</idno>
+            <idno type="VID">190495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B18588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190495)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[96])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Forster, respondent to the petition of appeal of Henry Forster, which seeks to reverse a decree of dismission made in Chancery the last day of May last; and to affirm a decree made in 1674 against the said John Forster (he being then an infant of seven years of age) unless cause shewn when he came of age.</title>
+                  <author>Forster, Henry.</author>
+                  <author>Forster, John, b. 1666 or 7.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Estates (Law) --  England --  Early works to 1800.</term>
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+               <term>Land tenure --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190495:1"/>
+            <head>The Caſe of JOHN FORSTER,</head>
+            <head type="sub">Reſpondent to the Petition of Appeal of <hi>Henry Forſter,</hi> which ſeeks to Reverſe a Decree of Diſmiſſion made in <hi>Chancery</hi> the laſt day of <hi>May</hi> laſt; and to affirm a Decree made in 1674 againſt the ſaid <hi>John Forſter</hi> (he being then an Infant of Seven Years of Age) unleſs Cauſe ſhewn when he came of Age.</head>
+            <p>
+               <hi>Arthur Forſter</hi> the Grandfa<g ref="char:EOLhyphen"/>ther had three Sons.
+<list>
+                  <item>
+                     <hi>Nicholas</hi> his el<g ref="char:EOLhyphen"/>deſt, who died without Iſſue.</item>
+                  <item>
+                     <hi>Cuthber</hi> his 2d. who had Iſſue <hi>John</hi> the Reſpon<g ref="char:EOLhyphen"/>dent, and three other Children.</item>
+                  <item>
+                     <hi>Henry</hi> his third the Petitioner.</item>
+               </list>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Reſpondent ſaith, That <hi>Arthur Forſter,</hi> the Petioner's Father, and this Reſpondent's Grandfather, having three Sons, <hi>viz. Nicholas</hi> his eldeſt, <hi>Cuthbert</hi> (this Reſpondent's Father) his ſecond, and the Petitioner his youngeſt Son; and being ſeized in Fee of Free-hold, Copy-hold, and Cuſto<g ref="char:EOLhyphen"/>mary Lands, worth 300 <hi>l. per annum,</hi> in <hi>England,</hi> and about 116 <hi>l. per annum</hi> in <hi>Scotland;</hi> beſides about 10 <hi>l. per annum</hi> in <hi>England</hi> which he deviſed to the ſaid <hi>Cuthbert</hi> his ſecond Son, died about 20 years ſince. After whoſe death the ſame deſcended on the ſaid <hi>Nicholas</hi> the eldeſt Son, who entred and was ſeized in Fee, and purchaſed other Lands of good value; and about 16 years ſince died ſo ſeized, without Iſſue. Upon whoſe death, all the ſaid Eſtate deſcended on this Reſpondent, as Nephew and Heir of the ſaid <hi>Nicholas</hi> (the ſaid <hi>Cuthbert</hi> this Reſpondent's Father being dead, and leaving this Reſpondent an Infant of three years old, and another Son, and two Daughters.)</p>
+            <p>That the Petitioner taking advantage of this Reſpondent's Minority, and that his Mother had but 10 <hi>l. per annum</hi> for the Maintenance of her ſelf and four Children, immediately after the death of the ſaid <hi>Nicho<g ref="char:EOLhyphen"/>las,</hi> entred into all the ſaid Eſtate as well in <hi>England</hi> as <hi>Scotland,</hi> and got all the Deeds into his Cuſtody: And this Reſpondent's Guardian having afterwards, in this Reſpondent's Name, and upon his Title, obtain<g ref="char:EOLhyphen"/>ed a Verdict for the Cuſtomary and Copy-hold, and part of the Free-hold; the Petitioner exhibited his Bill in <hi>Chancery</hi> againſt this Reſpon<g ref="char:EOLhyphen"/>dent, then but four years old, to be quieted in his Poſſeſſion, and for an Injunction, pretending three Titles, two at Law, and one in Equity<note n="*" place="margin"> 
+                  <p>
+                     <hi>Note.</hi>
+                     <lb/> The Petitioner when he drew his Bill, made <hi>Walter Scot</hi> (Father to the Petitioner's Wife) Com<g ref="char:EOLhyphen"/>plainant in the Bill; and ſet forth by the Bill, That the Treaty of Marriage made by <hi>Nicholas Forſter</hi> was with <hi>Walter Scot:</hi> which <hi>Walter Scot</hi> died ſeven years before the pretended Marriage-Agreement; which the Petitioner (after the Re<g ref="char:EOLhyphen"/>ſpondent's Anſwer put in) apprehending, got an Order to amend his Bill; and in his amended Bill ſets forth, That the Treaty of Marriage was with Sir <hi>Gideon Scot,</hi> who they never examined as a Wit<g ref="char:EOLhyphen"/>neſs to prove the Agreement.</p>
+               </note>.</p>
+            <p>
+               <list>
+                  <item>I. By the ſuppoſed Settlement in the Petition ſet forth, pretended to be made by the ſaid <hi>Arthur</hi> one day before his death.</item>
+                  <item>II. By an Agreement pretended to be made by the ſaid <hi>Nicholas</hi> on the Petitioners Marriage with Sir <hi>Gideon Scott</hi>'s Nicce in <hi>Scotland,</hi> for the ſetling all his Eſtate, after his own death without Iſſue, on the Petitioner in tail Male with remainder, to the right Heirs of <hi>Nicholas,</hi> in conſideration of 10000 <hi>Scotch</hi> Marks Portion; which was a meer ſuggeſtion to prevent a Demur. And,</item>
+                  <item>III. By a ſuppoſed Will made by the ſaid <hi>Nicholas;</hi> whereto an Anſwer being put in by this Reſpondent's Guardian on this Reſpondent's behalf, the Petitioner took a Com<g ref="char:EOLhyphen"/>miſſion into <hi>Cumberland,</hi> and there examined ſeveral of his Wife's Relations who lived in <hi>Scotland,</hi> to prove ſeveral paroll Diſcourſes: Whereupon the Cauſe proceeded to an hea<g ref="char:EOLhyphen"/>ring, in 1674<g ref="char:punc">▪</g> before the then Lord Keeper, aſſiſted with the late Judge <hi>Wyndham,</hi> who Decreed, That the Petitioner ſhould enjoy to himſelf and his ſeveral Sons, and their reſpective Iſſue Male, according to the ſaid pretended Settlement, all the Lands contained therein; and alſo to Him and his Heirs all other the Free-hold and Copy-hold Lands which were the Lands of the ſaid <hi>Nicholas:</hi> And that this Reſpondent when he came of Age ſhould convey the ſame accordingly, unleſs he ſhould then ſhew cauſe to the contrary; and in the mean time awarded an Injunction, by colour whereof the Petitioner kept Poſſeſſion of the ſaid Eſtate above 14 years, and received above 4000 <hi>l.</hi> for the Profits.</item>
+               </list>
+            </p>
+            <p>That in <hi>May</hi> laſt this Reſpondent coming to ſhew cauſe againſt the ſaid Decree, and having, by the Aſſiſtance of Friends, procured Counſel and Inſtructions proper for his juſt Defence, (which was not done at the former hearing, by reaſon of his Infancy, and his Mothers Inability) the Court, on long debate of the matter, and hearing the Proofs read, and what could be alledged on either ſide, ſaw no cauſe to give the Petitioner any relief, but diſcharged the former Decree, and diſmiſſed the Bill with Coſts, which is enrolled, as by the Orders and Proceedings may appear.</p>
+            <p>And this Reſpondent doth humbly inſiſt, That the ſaid Diſmiſſion is Juſt and Regular, and the former Decree Unjuſt and Erroneous; and that if the matters inſiſted on at the laſt hearing had been obſerved to the Court on the former hearing, they would then have diſmiſſed the Bill, as this Reſpondent is adviſed.</p>
+            <p>And this Reſpondent farther ſaith, That he having twice recovered at Law upon full Evidence on both ſides the ſaid cuſtomary and Copy-hold Lands, and ſo much of the Free<g ref="char:EOLhyphen"/>hold as was purchaſed by the ſaid <hi>Nicholas;</hi> which being in ejectment, the Petitioner may have, and ought to take his proper remedy at Law, in caſe he be agrieved thereby, as this Reſpondent is alſo adviſed.</p>
+            <p>Wherefore, and for that the firſt Decree was not abſolute, but only, unleſs this Reſpondent ſhould, upon his attaining his Age, ſhew cauſe to the contrary; and upon this Reſpondent's ſhewing cauſe, was diſcharg'd; and that upon good grounds and juſt cauſe; he humbly hopes your Lordſhips will be pleaſed to diſmiſs the Petition, and confirm the ſaid Diſmiſſion, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>And that for theſe Reaſons.</hi>
+               <lb/>
+               <list>
+                  <item>I. For that the firſt Decree (as well as this Petition) is beyond the Bill, which ſeeks only an Eſtate-Tayle in all the Lands, as well what is in the pretended Settlement, as what was afterwards purchaſed; and yet by the Decree the Petitioner is to have the Lands not in the Settlement in Fee.</item>
+                  <item>II. For that it appears by the Decree, that <hi>Nicholas,</hi> who is ſuppoſed to agree to confirm his Father's pretended Settlement, was thereby but Tenant for Life: So that if that was a good Settlement, 'twas not in his power to confirm it, or to do any Act to prejudice his next Brother's Right.</item>
+                  <item>III. For that by the Bill and Proofs it appears <hi>Nicholas</hi> was to be Tenant in Tail before the Petitioner, whoſe Remainder might have been barred by <hi>Nicholas</hi>'s ſuffering a Recovery.</item>
+                  <item>IV. For that an Heir at Law ought not to be diſinherited by uncertain parol diſcourſes, without writing, much leſs when neither the Petitioner, nor his Witneſſes, agree what the effect of ſuch diſcourſes was, but contradict themſelves, and each other.</item>
+                  <item>V. For that the pretended Portion of 10000 <hi>Scotch</hi> Marks, ſell to 4000 <hi>Scoth,</hi> and that not paid, which if it had, it amounts but to a<g ref="char:EOLhyphen"/>bout 220 <hi>l. Sterl.</hi> whenas the Petitioner had 1000 <hi>l.</hi> given him by his Father's Will out of his Perſonal Eſtate; who took no no<g ref="char:EOLhyphen"/>tice, nor in truth ever executed any Settlement; but the pretended Deed is feigned, or elſe was unduly obtained in his Sickneſs but one day before his Death, with which 1000. <hi>l.</hi> the Petitioner might have deſerved a better Portion in <hi>England</hi>
+                     <note n="*" place="margin">
+                        <p>
+                           <hi>Note.</hi>
+                        </p>
+                        <p>The Petitioner examines two Witneſſes in <hi>Chancery</hi> to prove the pretended Deed of Settle<g ref="char:EOLhyphen"/>ment, and they both ſwear the Deed was executed ſix days before <hi>Arthur</hi>'s Death; and <hi>Arthur</hi> died 25 <hi>Dec.</hi> 1669, and the Deed bears Date but the 24th day of <hi>Dec.</hi> 1669. So that the Deed bears date five days after 'twas executed, as by the Pe<g ref="char:EOLhyphen"/>titioner's own Proofs; by which it plainly appeare the Deed is forged.</p>
+                     </note>.</item>
+                  <item>VI. For that here's a pretended Marriage-agreement without any proviſion for the Wife, or Children; nor is there any certain or fixt Agreement, whereon damages could be recovered at Law.</item>
+                  <item>VII. For that ſuch pretended Parol Diſcourſes ought not to be favoured in Equity, much leſs, ſince the Act for prevention of Frauds and Perjuries, whereby all Marriage-agreements and Contracts for Lands not reduced into writing, are void.</item>
+                  <item>VIII. For that if there be any ſuch Settlement, or Will, the Petitioner's remedy is at Law, and not in Equity; and thoſe Pretences ought not to be uſed in Equity to counte<g ref="char:EOLhyphen"/>nance the Pretended Parol-agreement, which in truth they rather contradict than affirm.</item>
+               </list>
+            </p>
+            <p>
+               <hi>The Reaſon of the Petitioner's obtaining a Decree, unleſs Cauſe, was for the Reaſons following, <hi>viz.</hi>
+               </hi>
+               <lb/>
+               <list>
+                  <item>I. For that the Reſpondent was but of the Age of four years, and had no perſon to examine his Witneſſes touching the validity of the Deed, and reality of the pretended Agreement; nor any perſon capable of drawing his Briefs, and making Obſervations on the Petitioner's Proofs touching the forged Deed, and the pretended paroll Agreement.</item>
+                  <item>II. For that the Reſpondent's Counſel on the firſt hearing inſiſted only, That any Agreement whereby <hi>Nicholas</hi> was to have an Eſtate-Tayle, ought not to be executed againſt the Reſpondent after <hi>Nicholas</hi>'s death, for that he might have barred ſuch an Eſtate-Tayle; and that theſe Tenant-Right and Copy-hold Lands could not be intayled, nor were ſubject to a paroll Agreement; and in all Tenant-Right Eſtates, the conſent of the Lord was neceſſary, and the Lord had a greater Intereſt whereby to admit or refuſe Tenants, than in Copy-hold Lands; and <hi>John</hi> was admitted as Heir to his Father, his Uncle, and his Grandfather; and that the Reſpondent's Grandfather, on the Marriage with the Reſpondent's Father, had, upon a better conſideration, made a paroll Agreement, whereby his Real Eſtate ſhould come to the Reſpondent.</item>
+               </list>
+            </p>
+            <p>And the Counſel at the firſt hearing omitting to obſerve the Deed bears Date four days after 'twas executed, nor obſerving the incoherence and uncertainty of the Witneſſes, and that the pretended paroll Agreement was but a diſcourſe or flouriſh on the Treaty, and no real part of the Agreement; and that the Agreement was not ſuch, that any Suit could be thereupon grounded at Law to recover Da<g ref="char:EOLhyphen"/>mage; and that the pretended Portion of 4000 <hi>Scotch</hi> Marks was but 220 <hi>l.</hi> and that all the VVitneſſes being <hi>Scotch</hi>-men, and near Relations, do depoſe in Terms of Art unlikely to be known by them; and the Petitioner by his Bill ſays the Agreements to be, That the Lands ſhould be ſettled on Him and the Heirs-males of his Body; and his Proof is of a Diſcourſe that they ſhould be ſettled o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Petitioner in Fee.</p>
+         </div>
+         <div type="docket_title">
+            <pb facs="tcp:190495:2" rendition="simple:additions"/>
+            <p>
+               <add>The Caſe of John Forſter Reſpondent.</add>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
